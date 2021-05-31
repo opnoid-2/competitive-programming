@@ -1,2 +1,2 @@
 # competitive-programming
-all my codes used for competitive programming will be captured here. 
+Codes of my competitive programming(and some other miscellaneous stuffs..)  
